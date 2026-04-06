@@ -16,7 +16,6 @@ Um jogo simples e divertido desenvolvido em **Python** onde o computador escolhe
 1. Certifique-se de ter o Python instalado.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-
+   git clone https://github.com/Bernardopmtld/Bernardopmtld/tree/main/acad%C3%AAmico/jokenpo
    Navegue até a pasta e execute o jogo:
 python jogo.py
